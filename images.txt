@@ -1,2 +1,3 @@
 jellyfin/jellyfin:2025040803
 homeassistant/home-assistant:2025.5.0.dev202504080234
+docker pull jellyfin/jellyfin:2025040803-arm64
