@@ -1,1 +1,1 @@
-jellyfin/jellyfin:2025040803-arm64
+--platform linux/arm64 homeassistant/home-assistant:dev
