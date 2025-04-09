@@ -1,1 +1,1 @@
--platform linux/arm64 rclone/rclone:sha-bbaa1d1
+ --platform linux/arm64 rclone/rclone:sha-bbaa1d1
