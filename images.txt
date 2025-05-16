@@ -1,1 +1,1 @@
-linux/arm64/v8 gdy666/lucky
+--platform linux/arm64/v8 gdy666/lucky
